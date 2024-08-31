@@ -3,7 +3,7 @@ const sendemail = require('./sendEmailFun')
 const app = express()
 const cors = require('cors')
 app.use(cors({
-    origin: 'https://abdelrhman-ebian-portfolio.vercel.app',
+    origin: ['https://abdelrhman-ebian-portfolio.vercel.app',"https://my-portfolio-abdelrhmanebians-projects.vercel.app"],
     credentials: true
 }))
 app.use(express.json());
