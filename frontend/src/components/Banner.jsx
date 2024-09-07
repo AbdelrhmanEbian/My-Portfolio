@@ -29,8 +29,8 @@ const Banner = () => {
     </motion.div>
     <motion.p variants={fadeIn('up',0.5)} initial='hidden'  whileInView='show' viewport={{once:false,amount:0.7}}  className='mb-4 max-w-lg mx-auto lg:mx-0'>welcome to my portfolio , I am Abdelrhman Ebian , I am in third secondary and I have been developing for one year</motion.p>
     <motion.div variants={fadeIn('right',0.6)} initial='hidden'  whileInView='show' viewport={{once:false,amount:0.7}}  className=' max-w-max mb-5 mx-auto text-center lg:text-start lg:mx-0'>
-    <a href="https://app.enhancv.com/share/1e5186b4/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">
-      <button className='btn  btn-lg'>Get my cv
+    <a href="https://flowcv.com/resume/kbb3bu8keo">
+      <button className='btn  btn-lg'>Get my CV
       </button>
     </a>
     </motion.div>
