@@ -14,13 +14,13 @@ const Services = () => {
       img: "/Screenshot.png",
       name: "airbnb clone",
       skills: "react.js express.js mongo-db node.js",
-      link: "https://air-bnb-clone-beta.netlify.app/",
+      link: "https://abdelrhmanebian.github.io/Booking-app/",
     },
     {
       img: "/Screenshot (13).png",
       name: "E commerce",
       skills: "react.js react-hooks firebase",
-      link: "https://my-first-e-commerce.netlify.app/",
+      link: "https://abdlerhman-ebian-e-commerce.vercel.app/",
     },
     {
       img: "/promptopia.png",
